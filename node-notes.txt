@@ -1,0 +1,49 @@
+Node
+
+
+npm init   ----to create package.json
+
+node file name ----to get result    eg :node script.js / node script
+
+1. global (like window in frontend)
+
+2.module import
+    eg:-
+    const path = require("path");
+    const fs = require("fs");   --file system
+
+3. nodemon
+
+   npm i nodemon  ---tool that helps develop node. js based applications by automatically restarting the node application when file changes in the directory are detected
+
+   npm update -- to update all modules
+   npm install nodemon@2.0.3 ----to install a specific version of module
+   npm outdated ---will get list of packages need to update.
+
+4. in package.json
+
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+
+   replace above section with below
+
+
+   "scripts": {
+    "start": "node filename",     
+    "dev": "nodemon filename"
+  },
+
+
+  after this u can use   npm run dev
+
+
+
+Express.js
+
+
+
+
+npm install express
+
+npm install -D nodemon  -----install it as dev dependency...nodemon not neede in live

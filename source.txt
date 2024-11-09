@@ -1,0 +1,93 @@
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
+This is some text in the source file.
+It will be read by the Node.js stream and written to the destination file.
+Streams are powerful for handling large data efficiently.
